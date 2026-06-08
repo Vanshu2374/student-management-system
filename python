@@ -1,0 +1,38 @@
+#np.sum
+import numpy as np
+arr = np.array([10,20,3,4])
+print(arr)
+arr_s = np.sum(arr)
+print(arr_s)
+
+#np.mean
+import numpy as np
+arr1 = np.array([1,30,4,90,50])
+print(arr1)
+arr1_m = np.mean(arr1)
+print(arr1_m)
+
+#np.median
+import numpy as np
+arr2 = np.array([20,30,50,7,1])
+print(arr2)
+arr2_M = np.mean(arr2)
+print(arr2_M)
+
+#np.min
+import numpy as np
+arr3 = np.array([10,90,4,80])
+print(arr3)
+arr3_mi = np.min(arr3)
+print(arr3_mi)
+
+#np.max
+import numpy as np
+arr4 = np.array([10,30,6,50])
+print(arr4)
+arr4_ma = np.max(arr4)
+print(arr4_ma)
+
+  
+ 
+ 
